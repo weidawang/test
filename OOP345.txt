@@ -1,0 +1,3 @@
+https://github.com/CaptGreg/SenecaOOP345-attic
+fastforward.cpp until lambda functions
+key words
